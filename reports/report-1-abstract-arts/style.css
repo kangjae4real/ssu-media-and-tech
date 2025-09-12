@@ -4,6 +4,8 @@
   box-sizing: border-box;
 }
 
-canvas {
-  margin: 0 auto;
+#app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
