@@ -30,6 +30,6 @@ npx ssu-media-and-tech-starter
 
 ## Run
 ```shell
-$ bun install # or 'npm install'
-$ bun dev # or 'npm run dev'
+bun install
+bun dev
 ```
